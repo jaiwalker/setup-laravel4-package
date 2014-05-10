@@ -20,7 +20,8 @@ before we start  make sure that laravel debug is set to true ( app/config/app.ph
 
 ok ! now 
 
-laravel packages are build from workbench ... there is whole different concept to this ..anywas
+laravel packages are build from workbench ... there is whole different concept to this ..anyways
+ 
  1)
  got  to app/config/workbench.php add your name and email here  this is  Important as packages structure will be based onthis.
  
