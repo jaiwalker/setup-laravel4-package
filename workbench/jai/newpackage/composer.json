@@ -1,0 +1,26 @@
+{
+    "name": "jai/newpackage",
+    "description": "",
+    "authors": [
+        {
+            "name": "jai",
+            "email": "kora.jayaram@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations",
+            "src/controllers"
+        ],
+        "psr-0": {
+            "Jai\\Newpackage\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
+
+
