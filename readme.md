@@ -2,9 +2,9 @@
 
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/version.png)](https://packagist.org/packages/laravel/framework) 
 
-This is just for understanidg how packages in laravle works :
+This is just for understanding how packages in laravle works :
 
-I have spend days looking for the appropriate guide - how to use controller, routes and config , after doing some research my self I found few Important that not  explained.
+I have spend days looking for the appropriate guide - how to use controller, routes and config , after doing some research my self I found few key things that have to implemented while building packages.
 
 Lets get to the business:
 
@@ -135,6 +135,7 @@ This allows the facade to work without the adding it to the Alias array in app/c
 
 If all went well you should see the `What's up .....` output in your browser after visiting the test URL.
 
+This article was  forked from https://github.com/orangehill/Laravel-Workbench-Walkthrough
 
 Now adding routes !!!
 
